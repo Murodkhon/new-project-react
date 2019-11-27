@@ -1,0 +1,13 @@
+$primary-color: rgb(98, 118, 231);
+$secondary-color : #7c7;
+$main-header-size: 32px;
+$main-border: 3px solid red;
+
+.navber {
+  background: $primary-color;
+}
+
+.title {
+  font-size: $main-header-size;
+}
+
